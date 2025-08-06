@@ -1,0 +1,6 @@
+/* Sets the font for the entire application for better readability */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* You can add more custom styles here if you need them */
